@@ -1,2 +1,2 @@
 # p2 
-simple, beginner project
+simple, beginner project: p2
